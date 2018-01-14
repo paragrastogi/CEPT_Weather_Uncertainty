@@ -9,4 +9,4 @@ pip install -r py_packages.txt
 )
 
 ECHO "Finished!"
-PAUSE 
+EXIT 
